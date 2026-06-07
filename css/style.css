@@ -111,3 +111,30 @@ button{
     max-width: 240px;
     justify-content: center;
 }
+
+.quote-section{
+    background-color: #E5E7EB;
+    padding: 128px;
+}
+
+.quote-content{
+    max-width: 720px;
+    margin: 0 auto;
+}
+
+.quote-text{
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    font-style: italic;
+    margin: 0;
+    padding: 0;
+}
+
+.quote-author{
+    font-size: 24px;
+    text-align: end;
+    margin: 0;
+    padding: 0;
+    font-weight: 900;
+}
